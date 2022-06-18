@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>0.1</Version>
+    <PackageId>AK.DSAPackage</PackageId>
+    <Authors>AkhilKumarP</Authors>
+    <Company>TIC</Company>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/akhil-ece/DSAPackageDotNet</RepositoryUrl>
+    <PackageTags>Algorithms;DataStructures;DotNet;LeetCode;Coding;DSA;Practice</PackageTags>
+    <Description>
+      This Package contains many Algorithms readily builtin and easy to consume.
+    </Description>
+    <Language>C#</Language>
+    <Summary>This Package contains many Algorithms readily builtin and easy to consume.</Summary>
+    <Copyright>Akhil2022</Copyright>
+  </PropertyGroup>
+
+</Project>
